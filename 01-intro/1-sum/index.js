@@ -5,5 +5,7 @@
  * @returns {number}
  */
 export default function sum(m, n) {
+let s=n+m;
+return s;
 
 }
